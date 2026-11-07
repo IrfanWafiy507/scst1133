@@ -28,8 +28,19 @@ By following my lecturer guidance,I able to know how to use fork and star while 
 
 
 ## Evidence
+**Fork**
 
-Add screenshots, output, code excerpts or working links.
+<img width="1867" height="1071" alt="Screenshot 2026-11-07 185813" src="https://github.com/user-attachments/assets/b8f571b4-87a0-4880-9bcd-5a0510f8036e" />
+
+---
+**Star**
+
+
+<img width="1830" height="957" alt="Screenshot 2026-11-07 185847" src="https://github.com/user-attachments/assets/964d446d-b26a-4cd2-97eb-50c4d5c420a8" />
+
+---
+
+
 
 ## Reflection
 
